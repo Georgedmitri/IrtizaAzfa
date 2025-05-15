@@ -4,4 +4,4 @@ st.title("🎈 Mauricitarumboys😎")
 st.write(
 "kenapa rambut mauri kaya jamur busuk")
 
-st.image("view/
+st.image(view/"
